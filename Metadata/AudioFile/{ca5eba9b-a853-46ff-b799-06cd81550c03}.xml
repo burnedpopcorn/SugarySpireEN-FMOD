@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ca5eba9b-a853-46ff-b799-06cd81550c03}">
+		<property name="assetPath">
+			<value>sfx/rankdown3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.46800000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5c3bd019-bbed-4b94-bc5c-947e54fd7a00}</destination>
+		</relationship>
+	</object>
+</objects>

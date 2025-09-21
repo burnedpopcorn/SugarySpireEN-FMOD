@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{da7fad57-951a-428d-a14f-2fa138d18a85}">
+		<property name="name">
+			<value>transfo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{79a1e946-8f94-40e4-bb34-0f3325224c2d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3199d505-0597-4119-8879-585606f2387b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3199d505-0597-4119-8879-585606f2387b}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="isReadOnly">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

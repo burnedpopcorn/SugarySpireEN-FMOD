@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{34265cdb-1743-4ae1-8230-6485dcedd896}">
+		<property name="assetPath">
+			<value>sfx/PaintingReal.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.193333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5c3bd019-bbed-4b94-bc5c-947e54fd7a00}</destination>
+		</relationship>
+	</object>
+</objects>

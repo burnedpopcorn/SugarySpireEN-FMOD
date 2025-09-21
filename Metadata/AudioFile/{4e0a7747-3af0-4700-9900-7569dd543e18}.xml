@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4e0a7747-3af0-4700-9900-7569dd543e18}">
+		<property name="assetPath">
+			<value>sfx/snd_tvbuzz.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5800000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5c3bd019-bbed-4b94-bc5c-947e54fd7a00}</destination>
+		</relationship>
+	</object>
+</objects>

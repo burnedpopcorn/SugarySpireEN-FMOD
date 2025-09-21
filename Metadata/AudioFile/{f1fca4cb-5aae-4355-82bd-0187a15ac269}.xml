@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f1fca4cb-5aae-4355-82bd-0187a15ac269}">
+		<property name="assetPath">
+			<value>music/mu_void.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>78.126660000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5c3bd019-bbed-4b94-bc5c-947e54fd7a00}</destination>
+		</relationship>
+	</object>
+</objects>

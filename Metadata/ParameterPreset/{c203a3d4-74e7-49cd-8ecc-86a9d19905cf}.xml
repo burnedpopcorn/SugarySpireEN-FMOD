@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c203a3d4-74e7-49cd-8ecc-86a9d19905cf}">
+		<property name="name">
+			<value>musicFade</value>
+		</property>
+		<relationship name="folder">
+			<destination>{79a1e946-8f94-40e4-bb34-0f3325224c2d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{78b23643-adb7-4bd3-abf8-ff55657e688d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{78b23643-adb7-4bd3-abf8-ff55657e688d}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="isReadOnly">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

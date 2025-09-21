@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1d37d118-bb25-4762-828a-97ee8ba436d1}">
+		<property name="assetPath">
+			<value>sfx/sfx_groundpound.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0920000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5c3bd019-bbed-4b94-bc5c-947e54fd7a00}</destination>
+		</relationship>
+	</object>
+</objects>
